@@ -609,6 +609,11 @@ header{
         font-size: 2rem;
      }
 
+
+     .about-section img{
+        width: 200px;
+     }
+
    
 
 }
