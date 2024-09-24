@@ -593,7 +593,20 @@ header{
 
 
      .carousel-item img{
-        width: 150px;
+        width: 100px;
+     }
+
+     .about-button{
+        flex-direction: column;
+     }
+
+
+     .about-section{
+        flex-direction: column;
+     }
+
+     .title{
+        font-size: 2rem;
      }
 
    
