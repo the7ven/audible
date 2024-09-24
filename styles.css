@@ -591,6 +591,11 @@ header{
         font-size: 1.5rem;
      }
 
+
+     .carousel-item img{
+        width: 150px;
+     }
+
    
 
 }
